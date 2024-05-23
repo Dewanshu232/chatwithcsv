@@ -1,4 +1,4 @@
 langchain
 ctransformers
 sentence-transformers
-faiss-cpu
+faiss-gpu
